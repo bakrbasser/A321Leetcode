@@ -15,6 +15,13 @@ public:
         }
 };
 
+class person
+{
+        string _name;
+        string _age;
+        string _address;
+};
+
 int main()
 {
         vector<int> arr = {3, 1, 0};
